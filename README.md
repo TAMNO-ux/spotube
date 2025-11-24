@@ -332,3 +332,4 @@ If you are curious, you can [read the reason of choosing this license](https://d
 </details>
 
 <div align="center"><h4>© Copyright Spotube 2025</h4></div>
+sooper
